@@ -183,3 +183,15 @@ The file name must end in `.txt` for it to be acceptable to the program.
 When running the program inside IntelliJ, you can set command line parameters
 before running the program.
 ====
+
+== Finding a persons by their telephone number: `findPhoneNumber`
+
+Finds persons whose telephone number is the given keywords. +
+Format: `findPhoneNumber KEYWORD`
+
+
+Examples:
+
+* `find 12345678` +
+Returns the person's full information.
+
